@@ -27,6 +27,7 @@
 - [Boas Práticas](#-boas-práticas)
 - [Contribuindo](#-contribuindo)
 - [Licença](#-licença)
+- [Autor](#-autor)
 
 ---
 
@@ -164,3 +165,11 @@ Use-o como **guia de execução** e base de treinamento.
 
 ## 📄 Licença
 Distribuído sob **MIT License**. Consulte `LICENSE`.
+
+## 👤 Autor
+<a id="autor"></a>
+
+**André Dosciati**  
+Especialista em **Redes | Dados e Segurança | Educador em Tecnologia**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/andredosciati/  
+🔗 **GitHub:** https://github.com/dosciati
